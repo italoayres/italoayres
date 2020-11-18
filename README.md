@@ -25,7 +25,7 @@ Technologies: NextJS, NodeJS, Sequelize, Strapi CMS, GraphQL
 Developed HTML extensions, enabling multimedia temporal and causal synchronization capabilities natively on Web browsers, using Web Components and model-driven generation tools.
 Worked with technologies such as HTML Custom Elements and Single Page Application authoring through model definitions.
 
-- **Programmer Intern at eEgen Software**, João Pessoa, PB (2015 – 2016)
+- **Developer at eEgen Software**, João Pessoa, PB (2015 – 2016)
 Full-stack Web and Mobile developer, mainly focusing on market research tools and business processes management software. Made hybrid and native apps for both Android and IOS and worked with technologies such as AngularJS, NodeJS, Ionic Framework, BPMN Tools and Java.
 
 	* Assisted and trained new co-workers on a daily basis

@@ -17,7 +17,7 @@ Skills
 
 Experience
 ---------
-- **Developer at Remitbee Online Money Transfer**, Mississauga, ON, Canada (2019 - present)
+- **Developer at Remitbee Online Money Transfer**, Mississauga, ON, Canada (2019 - 2020)
 Worked on building from scratch the 2.0 version of the company's money transfer web app. Developed hundreds of generated pages trough a CMS powered dynamic pages system to boost the site's SEO which brought visible growth to the company in a short term. Worked with financial services APIs, relation with dozens of banks around the world, Risk analysis, AML compliance.
 Technologies: NextJS, NodeJS, Sequelize, Strapi CMS, GraphQL
 

@@ -17,11 +17,11 @@ Skills
 
 Experience
 ---------
-- **Developer at Conductor Tecnologia em meios de pagamento**, João Pessoa, Brazil (2021 - current)
+- **Developer at Dock Tech Payment Solutions**, João Pessoa, Brazil (2021 - current)
 
-I'm currently maintaining a portal for capture and analysis of credit card proposals. The portal is widely used across the country by several big companies that provide credit.
+I'm currently maintaining a portal for capture and analysis of credit card proposals. The portal is widely used across the country by several big companies that provide credit. https://dock.tech/en/
 
-Technologies: AngularJS, Java, Spring-boot
+Technologies: AngularJS, React, Java, Spring-boot
 
 - **Developer at Remitbee Online Money Transfer**, Mississauga, ON, Canada (2019 - 2020)
 

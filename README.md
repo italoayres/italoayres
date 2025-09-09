@@ -1,68 +1,85 @@
-Italo Ayres
-======
+# Italo Ayres
 
-#### Web and Mobile developer with strong background in Performance and SEO. 
-###### [https://github.com/italoayres/italoayres](https://github.com/italoayres/italoayres) ] . [ italoayres at gmail.com ] .
+**Full-Stack Developer | Web & Mobile Applications | Node.js Ecosystem**
+[GitHub](https://github.com/italoayres/italoayres) · [Email](mailto:italoayres@gmail.com)
 
+---
 
-Skills
-------
+## Professional Summary
 
-**Programming** ReactJS, NextJS, NodeJS, GraphQL, SQL, MATLAB, Java, JavaScript, Python, HTML/CSS, C++, C#
-    
-**Frameworks**: NodeJS, NPM, Express, AngularJS, VueJS, Ionic Framework, Cordova Phonegap, Android Native and iOS.
-    
-**Other technologies:** GIT, Linux, Nginx, Apache, Amazon AWS, Docker, Grunt, Gulp, Webpack.
+Full-Stack Developer with solid expertise in designing and implementing **scalable, secure, and high-performance web and mobile applications**. Specialized in the **Node.js ecosystem**, with deep knowledge of **Express, NestJS, Next.js, GraphQL, Sequelize, Prisma, TypeORM, and Strapi**. Skilled in front-end development using **React, Angular, Vue.js, React Native, and Ionic**, ensuring seamless user experiences across devices.
 
+Proficient in modern development workflows: **Docker, Kubernetes, AWS (EC2, S3, Lambda, CloudFront), Git, CI/CD pipelines, Webpack, and Vite**. Experienced in optimizing **SEO, web performance, and accessibility**, as well as integrating **payment gateways, banking APIs, and secure authentication systems**.
 
-Experience
----------
-- **Developer at Dock Tech Payment Solutions**, João Pessoa, Brazil (2021 - current)
+Known for strong problem-solving skills, mentoring teammates, and delivering reliable applications in fintech, payments, and data-driven projects. Passionate about continuous learning, clean code practices, and staying up to date with the latest trends in the JavaScript/TypeScript ecosystem.
 
-I'm currently maintaining a portal for capture and analysis of credit card proposals. The portal is widely used across the country by several big companies that provide credit. https://dock.tech/en/
+---
 
-Technologies: AngularJS, React, Java, Spring-boot
+## Skills
 
-- **Developer at Remitbee Online Money Transfer**, Mississauga, ON, Canada (2019 - 2020)
+**Back-End:** Node.js, Express, NestJS, GraphQL, REST APIs, Sequelize, Prisma, TypeORM, Java, Spring Boot, Python.
+**Front-End:** React.js, Next.js, Angular, Vue.js, Vite, Webpack, React Native, Ionic, Progressive Web Apps (PWAs).
+**Databases:** SQL, PostgreSQL, MySQL, MongoDB, Redis.
+**DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda, CloudFront), Nginx, Apache, CI/CD pipelines.
+**Other Tools:** Git, Linux, Strapi CMS, Web Components, Gulp, Grunt, SEO Optimization, Performance Tuning.
+**Languages:** JavaScript, TypeScript, Python, C++, C#, MATLAB, HTML5, CSS3.
 
-Worked on building from scratch the 2.0 version of the company's money transfer web app. Developed hundreds of generated pages trough a CMS powered dynamic pages system to boost the site's SEO which brought visible growth to the company in a short term. Worked with financial services APIs, relation with dozens of banks around the world, Risk analysis, AML compliance.
+---
 
-Technologies: NextJS, NodeJS, Sequelize, Strapi CMS, GraphQL
+## Experience
 
-- **Researcher at Laboratório de Aplicações de Vídeo Digital - LAViD**, Universidade Federal da Paraíba (2016 – 2018)
+### Dock Tech Payment Solutions — *Developer*
 
-Developed HTML extensions, enabling multimedia temporal and causal synchronization capabilities natively on Web browsers, using Web Components and model-driven generation tools.
-Worked with technologies such as HTML Custom Elements and Single Page Application authoring through model definitions.
+**João Pessoa, Brazil | 2021 – Present**
 
-- **Developer at eEgen Software**, João Pessoa, PB (2015 – 2016)
+* Developed and maintained a nationwide web portal for capture and analysis of credit card proposals.
+* Worked with **AngularJS, React, Java, Spring Boot**, ensuring scalability and high availability.
+* Delivered solutions widely adopted by major retail companies across Brazil.
 
-Full-stack Web and Mobile developer, mainly focusing on market research tools and business processes management software. Made hybrid and native apps for both Android and IOS and worked with technologies such as AngularJS, NodeJS, Ionic Framework, BPMN Tools and Java.
+### Remitbee Online Money Transfer — *Developer*
 
-	* Assisted and trained new co-workers on a daily basis
-	* Managed and maintained several published applications on both Google Play and App Store
-	* Managed and performed databases migrations in multiple applications.
+**Mississauga, ON, Canada | 2019 – 2020**
 
-- **Developer at GICA-EE** (Computational Intelligence Applied to Electric Engineering Group at UFPB), João Pessoa, PB, 2/2014 – 12/2014
-- 
-Worked with huge databases management, data normalization and analysis generated from countrywide electrical substations grid . Also worked as web and C# developer.
+* Built the **2.0 version** of the company’s money transfer web app from scratch.
+* Created a CMS-powered dynamic page system that generated hundreds of SEO-optimized pages, driving rapid organic growth.
+* Integrated with international **financial APIs, AML compliance systems, and risk analysis tools**.
+* Technologies: **Next.js, Node.js, Sequelize, Strapi CMS, GraphQL**.
 
+### LAViD (Laboratório de Aplicações de Vídeo Digital - UFPB) — *Researcher*
 
-Education
----------
+**João Pessoa, Brazil | 2016 – 2018**
 
-**B.S. in Computer Science, Universidade Federal da Paraíba** (2018)
+* Developed **HTML extensions** for multimedia synchronization directly in browsers.
+* Created **Single Page Application authoring tools** using Web Components and model-driven generation.
 
+### eEgen Software — *Full-Stack Developer*
 
-Projects
---------
-- **First Prize at 3th Edition of Hackfest Against Corruption, September 2017**
+**João Pessoa, Brazil | 2015 – 2016**
 
-Our project was meant to analyse large databases of public paycheck registry data that was released by the Federal Department of the Treasury for this hackathon. During our analysis several irregularities were detected and brought to public attention.
+* Developed web and mobile apps for market research and business process management.
+* Built hybrid and native apps for **Android and iOS** using **AngularJS, Node.js, Ionic Framework**.
+* Managed database migrations, trained new hires, and maintained apps on Google Play & App Store.
 
-We won gold medal from over 20 projects other projects competing and we were awarded a R$ 10’000 grant to further develop this idea.
+### GICA-EE (Computational Intelligence Applied to Electric Engineering Group - UFPB) — *Developer*
 
+**João Pessoa, Brazil | 2014**
 
-- **NotaZ Mobile App, 2014**
+* Handled large-scale database management, normalization, and analysis for Brazil’s electrical substation grid.
+* Worked as a web and C# developer.
 
-I have built and launched an app for organizing, recording and calculating college grades, which was integrated with my University own system. It was built with Angular/Ionic Framework and released as an Progressive Web App and on Google Play Store reaching over 2000 downloads during the time it was active.
+---
 
+## Education
+
+* **B.S. in Computer Science**, Universidade Federal da Paraíba — *2018*
+* **Técnico em Instrumento Musical**, Escola Estadual de Música Anthenor Navarro — *2024*
+
+---
+
+## Projects
+
+* **First Prize — Hackfest Against Corruption (3rd Edition, 2017)**
+  Analyzed large-scale paycheck registry databases released by the Federal Treasury. Detected irregularities that were publicly reported. Won **Gold Medal** among 20+ projects and received a grant of R\$10,000.
+
+* **NotaZ Mobile App (2014)**
+  Built and launched a mobile app for organizing and calculating college grades, integrated with the university system. Released as a **PWA and Android app**, reaching 2,000+ downloads.

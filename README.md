@@ -17,11 +17,11 @@ Known for strong problem-solving skills, mentoring teammates, and delivering rel
 
 ## Skills
 
-**Back-End:** Node.js, Express, NestJS, GraphQL, REST APIs, Sequelize, Prisma, TypeORM, Java, Spring Boot, Python.
-**Front-End:** React.js, Next.js, Angular, Vue.js, Vite, Webpack, React Native, Ionic, Progressive Web Apps (PWAs).
+**Back-End:** 10 years of Node.js, Express, +6y NestJS, GraphQL, REST APIs, Sequelize, Prisma, TypeORM, Java, Spring Boot, Python.
+**Front-End:** +6y React.js and Next.js. 8y of Angular, Vite, Webpack, React Native, Ionic, Progressive Web Apps (PWAs).
 **Databases:** SQL, PostgreSQL, MySQL, MongoDB, Redis.
 **DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda, CloudFront), Nginx, Apache, CI/CD pipelines.
-**Other Tools:** Git, Linux, Strapi CMS, Web Components, Gulp, Grunt, SEO Optimization, Performance Tuning.
+**Other Tools and Skills:** Git, Linux, Strapi CMS, Web Components, Gulp, Grunt, SEO Optimization, Performance Tuning.
 **Languages:** JavaScript, TypeScript, Python, C++, C#, MATLAB, HTML5, CSS3.
 
 ---
